@@ -4,7 +4,7 @@ Thanks for your interest! marktile is an open-source Obsidian plugin by [CVER In
 
 ## Reporting bugs & requesting features
 
-Please open a [GitHub issue](https://github.com/CVERInc/marktile/issues). Helpful details:
+Please open a [GitHub issue](https://github.com/CVERInc/obsidian-marktile/issues). Helpful details:
 
 - Obsidian version, and your OS / device (desktop, iOS, Android)
 - Steps to reproduce, and what you expected instead

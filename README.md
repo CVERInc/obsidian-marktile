@@ -1,6 +1,6 @@
 # marktile
 
-[English](https://github.com/CVERInc/marktile#english) · [日本語](https://github.com/CVERInc/marktile#日本語) · [한국어](https://github.com/CVERInc/marktile#한국어) · [繁體中文](https://github.com/CVERInc/marktile#繁體中文)
+[English](https://github.com/CVERInc/obsidian-marktile#english) · [日本語](https://github.com/CVERInc/obsidian-marktile#日本語) · [한국어](https://github.com/CVERInc/obsidian-marktile#한국어) · [繁體中文](https://github.com/CVERInc/obsidian-marktile#繁體中文)
 
 ---
 
@@ -15,7 +15,7 @@ list continuation, **Tab** indentation with a tab-vs-space ruler, and a drag-reo
 **table of contents**. Just a faster way to edit `.md`.
 
 It's a switchable pane: a header button hops back to Obsidian's native editor, and — if
-[tugtile](https://github.com/CVERInc/tugtile) is installed — over to the card table.
+[tugtile](https://github.com/CVERInc/obsidian-tugtile) is installed — over to the card table.
 Same file, no lock-in.
 
 ### Highlights
@@ -35,12 +35,12 @@ Same file, no lock-in.
 
 - **Community plugins (recommended):** in Obsidian, open Settings → Community plugins →
   Browse, search for **marktile**, then Install and Enable.
-- **Manual:** from the [latest release](https://github.com/CVERInc/marktile/releases/latest), download `main.js`,
+- **Manual:** from the [latest release](https://github.com/CVERInc/obsidian-marktile/releases/latest), download `main.js`,
   `manifest.json`, and `styles.css` into your vault's `.obsidian/plugins/marktile/` folder,
   then enable **marktile** in Settings → Community plugins.
-- **[BRAT](https://github.com/TfTHacker/obsidian42-brat) (beta builds):** add `CVERInc/marktile`.
+- **[BRAT](https://github.com/TfTHacker/obsidian42-brat) (beta builds):** add `CVERInc/obsidian-marktile`.
 
-Sister plugin: **[tugtile](https://github.com/CVERInc/tugtile)** — a card table for your
+Sister plugin: **[tugtile](https://github.com/CVERInc/obsidian-tugtile)** — a card table for your
 Markdown notes; marktile is its editor, grown standalone.
 
 **[Read more on cver.net →](https://cver.net/oss/marktile)**
@@ -59,7 +59,7 @@ marktile（mark + tile）は、あなた次第で Markdown を読みやすくし
 それだけの道具です。
 
 切り替え可能なペインです：ヘッダーのボタンで Obsidian ネイティブエディタへ戻れて、
-[tugtile](https://github.com/CVERInc/tugtile) があればカードテーブルへも。同じファイル、
+[tugtile](https://github.com/CVERInc/obsidian-tugtile) があればカードテーブルへも。同じファイル、
 ロックインなし。
 
 ### ハイライト
@@ -79,12 +79,12 @@ marktile（mark + tile）は、あなた次第で Markdown を読みやすくし
 
 - **コミュニティプラグイン（推奨）：** 設定 → コミュニティプラグイン → 「閲覧」で
   **marktile** を検索し、インストールして有効化。
-- **手動：** [最新リリース](https://github.com/CVERInc/marktile/releases/latest) から `main.js`・`manifest.json`・
+- **手動：** [最新リリース](https://github.com/CVERInc/obsidian-marktile/releases/latest) から `main.js`・`manifest.json`・
   `styles.css` を vault の `.obsidian/plugins/marktile/` に置き、設定 → コミュニティ
   プラグインで **marktile** を有効化。
-- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)（ベータ版）：** `CVERInc/marktile` を追加。
+- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)（ベータ版）：** `CVERInc/obsidian-marktile` を追加。
 
-姉妹プラグイン：**[tugtile](https://github.com/CVERInc/tugtile)**：Markdown ノートのための
+姉妹プラグイン：**[tugtile](https://github.com/CVERInc/obsidian-tugtile)**：Markdown ノートのための
 カードテーブル。marktile は、そこから独立して育ったエディタです。
 
 **[詳しくは cver.net で →](https://cver.net/ja-jp/oss/marktile)**
@@ -102,7 +102,7 @@ marktile(mark + tile)은 당신 방식대로 Markdown을 읽기 좋게 만듭니
 드래그로 순서를 바꾸는 **목차**까지. `.md`를 더 빠르게 편집하는, 그 정도의 도구입니다.
 
 전환 가능한 패널입니다: 헤더 버튼으로 Obsidian 네이티브 에디터로 돌아가고,
-[tugtile](https://github.com/CVERInc/tugtile)이 설치되어 있으면 카드 테이블로도 갈 수
+[tugtile](https://github.com/CVERInc/obsidian-tugtile)이 설치되어 있으면 카드 테이블로도 갈 수
 있습니다. 같은 파일, 락인 없음.
 
 ### 하이라이트
@@ -121,12 +121,12 @@ marktile(mark + tile)은 당신 방식대로 Markdown을 읽기 좋게 만듭니
 
 - **커뮤니티 플러그인(권장):** 설정 → 커뮤니티 플러그인 → 「탐색」에서 **marktile**을
   검색해 설치하고 활성화하세요.
-- **수동:** [최신 릴리스](https://github.com/CVERInc/marktile/releases/latest)에서 `main.js`, `manifest.json`,
+- **수동:** [최신 릴리스](https://github.com/CVERInc/obsidian-marktile/releases/latest)에서 `main.js`, `manifest.json`,
   `styles.css`를 vault의 `.obsidian/plugins/marktile/`에 넣고, 설정 → 커뮤니티
   플러그인에서 **marktile**을 활성화하세요.
-- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)(베타 빌드):** `CVERInc/marktile` 추가.
+- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)(베타 빌드):** `CVERInc/obsidian-marktile` 추가.
 
-자매 플러그인: **[tugtile](https://github.com/CVERInc/tugtile)**: Markdown 노트를 위한
+자매 플러그인: **[tugtile](https://github.com/CVERInc/obsidian-tugtile)**: Markdown 노트를 위한
 카드 테이블. marktile은 거기서 독립해 자란 에디터입니다.
 
 **[cver.net에서 더 보기 →](https://cver.net/ko-kr/oss/marktile)**
@@ -143,7 +143,7 @@ marktile（mark + tile）讓 Markdown 依你的方式變好讀：三種模式—
 可拖拉重排的**目錄**。就是更快地編輯 `.md`。
 
 它是一個可切換的分頁：header 上的鈕能跳回 Obsidian 原生編輯器，若有裝
-[tugtile](https://github.com/CVERInc/tugtile)，還能切到牌桌。同一份檔案，沒有鎖定。
+[tugtile](https://github.com/CVERInc/obsidian-tugtile)，還能切到牌桌。同一份檔案，沒有鎖定。
 
 ### 亮點
 
@@ -158,12 +158,12 @@ marktile（mark + tile）讓 Markdown 依你的方式變好讀：三種模式—
 
 - **社群外掛（推薦）：** 在 Obsidian 開 設定 → 社群外掛 → 瀏覽，搜尋 **marktile**，
   安裝後啟用。
-- **手動：** 從[最新 release](https://github.com/CVERInc/marktile/releases/latest) 下載 `main.js`、`manifest.json`、
+- **手動：** 從[最新 release](https://github.com/CVERInc/obsidian-marktile/releases/latest) 下載 `main.js`、`manifest.json`、
   `styles.css` 放進 vault 的 `.obsidian/plugins/marktile/`，然後在 設定 → 社群外掛 啟用
   **marktile**。
-- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)（beta 版）：** 加入 `CVERInc/marktile`。
+- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)（beta 版）：** 加入 `CVERInc/obsidian-marktile`。
 
-姊妹外掛：**[tugtile](https://github.com/CVERInc/tugtile)**：為你的 Markdown 筆記開一張
+姊妹外掛：**[tugtile](https://github.com/CVERInc/obsidian-tugtile)**：為你的 Markdown 筆記開一張
 牌桌；marktile 就是從那裡長成獨立外掛的編輯器。
 
 **[在 cver.net 了解詳情 →](https://cver.net/zh-tw/oss/marktile)**
