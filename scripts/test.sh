@@ -1,8 +1,13 @@
 #!/usr/bin/env bash
 # Release-integrity check for this thin publish repo. The plugin is built in the
-# private tile monorepo; this repo only ships the artifacts (main.js, manifest,
-# styles, versions), so there is nothing to compile here. This mirrors CI:
-# validate manifest/versions consistency and that the bundled main.js parses.
+# PUBLIC monorepo CVERInc/tile (it stopped being private on 2026-08-05, and this
+# line said otherwise until 2026-08-12); this repo only ships the artifacts
+# (main.js, manifest, styles, versions), so there is nothing to compile here.
+#
+# 🔴 `node --check main.js` below is the ONLY structural gate between tile's build
+# output and the community plugin store — scripts/publish.sh runs no tests. tile
+# checks its own built main.js now too (2026-08-12), so this is no longer the
+# first place a broken bundle would be caught, but it is still the last.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
