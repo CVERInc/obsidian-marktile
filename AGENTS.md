@@ -86,6 +86,6 @@ no compiler, no bundler, and no dependency to install in this repo.
 - [`hooks/pre-push`](hooks/pre-push) — tracked, opt-in via `git config core.hooksPath hooks`.
 - [`.github/workflows/ci.yml`](.github/workflows/ci.yml) — the server-side copy of that gate.
 - [CVERInc/tile](https://github.com/CVERInc/tile) — the source: `packages/core` (engine),
-  `packages/marktile`, the test suite, and `scripts/publish.sh` which builds this payload.
+  `hosts/obsidian/marktile` (this plugin), the test suite, and `scripts/publish.sh` which builds this payload.
 - Sister plugin: [CVERInc/obsidian-tugtile](https://github.com/CVERInc/obsidian-tugtile) — same
   arrangement, same engine.
